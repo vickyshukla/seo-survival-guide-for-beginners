@@ -1,15 +1,4 @@
----
-title: "The SEO Survival Guide for Beginners"
-description: "A beginner-friendly SEO guide covering image naming, Core Web Vitals, cache headers, CDN usage, favicons, JavaScript errors, technical SEO, and website performance optimization."
-author: "Vighnesh Shukla"
-tags:
-  - SEO
-  - Technical SEO
-  - Frontend Development
-  - Web Performance
-  - Core Web Vitals
-  - Image Optimization
----
+
 
 # The SEO Survival Guide for Beginners: Image Naming, Speed, Meta Tags & the Stuff Google Secretly Judges You For 👀
 
