@@ -1,4 +1,4 @@
-![SEO Guide Banner](./banner.png)
+![SEO Guide Banner](./seo-survival-guide.png)
 # The SEO Survival Guide for Beginners: Image Naming, Speed, Meta Tags & the Stuff Google Secretly Judges You For 👀
 ![SEO](https://img.shields.io/badge/SEO-Guide-brightgreen)
 ![Performance](https://img.shields.io/badge/Core_Web_Vitals-Optimized-blue)
