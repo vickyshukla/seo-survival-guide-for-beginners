@@ -1,6 +1,9 @@
-
-
+![SEO Guide Banner](./banner.png)
 # The SEO Survival Guide for Beginners: Image Naming, Speed, Meta Tags & the Stuff Google Secretly Judges You For 👀
+![SEO](https://img.shields.io/badge/SEO-Guide-brightgreen)
+![Performance](https://img.shields.io/badge/Core_Web_Vitals-Optimized-blue)
+![Frontend](https://img.shields.io/badge/Frontend-Friendly-orange)
+![License](https://img.shields.io/badge/License-MIT-purple)
 
 ## Hey Fellas, Vighnesh This Side 👋
 
@@ -790,3 +793,18 @@ final-final-real-final-v2-LAST.png
 Google deserves better.
 
 And honestly… so do you. 🚀
+
+You read the whole SEO guide. Your reward? A slightly higher chance of being found by strangers on the internet. Now go fix your Largest Contentful Paint before Google decides your site is "vintage" and hides it forever😅🤦‍♂️🍻.
+
+## ⭐ Support
+
+If this guide helped you:
+
+- Star the repository
+- Share with developers
+- Fork it
+- Improve it with PRs
+
+---
+
+Built with ❤️ by Vighnesh Shukla
